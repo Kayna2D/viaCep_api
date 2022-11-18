@@ -1,0 +1,20 @@
+table, td {
+    border: 1px solid #545454;
+    padding: 15px;
+}
+
+.input-cep {
+    margin: 5px;
+}
+
+.divEnviar-cep, .div-tabela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1_Titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
